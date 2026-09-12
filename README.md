@@ -6,12 +6,6 @@ An end-to-end data analytics pipeline with a Streamlit dashboard for visualizati
 
 ---
 
-## 🚀 Live App
-
-👉 https://tennis-project-analysis.streamlit.app
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
@@ -52,9 +46,6 @@ streamlit run tennis_dashboard/app.py
 ```
 
 ---
-## Data link
-[Data Link](https://www.kaggle.com/datasets/ravirajkukade/tennis-data)
-## 🗄️ Database Design
 
 ![ERD](ERD.png)
 
