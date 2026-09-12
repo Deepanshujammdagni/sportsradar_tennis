@@ -11,7 +11,7 @@ An end-to-end data analytics pipeline with a Streamlit dashboard for visualizati
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Deepanshujammdagni/sportsradar_tennis
-cd Final_project
+cd sportsradar_tennis
 ```
 
 ### 2. Setup virtual environment
